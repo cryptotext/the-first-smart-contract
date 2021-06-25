@@ -1,0 +1,22 @@
+{
+  "name": "the-first-smart-contract",
+  "version": "1.0.0",
+  "description": "the smart contract examples",
+  "main": "index.js",
+  "scripts": {
+    "test": "truffle test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cryptotext/the-first-smart-contract.git"
+  },
+  "keywords": [
+    "ethereum"
+  ],
+  "author": "CryptoText",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cryptotext/the-first-smart-contract/issues"
+  },
+  "homepage": "https://github.com/cryptotext/the-first-smart-contract#readme"
+}
